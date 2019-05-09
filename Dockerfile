@@ -1,6 +1,6 @@
 FROM debian:stretch
 
-ENV I2P_VERSION 0.9.39-1ubuntu1
+ENV I2P_VERSION 0.9.40x-1~xenial+1
 ENV I2P_DIR /usr/share/i2p
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
